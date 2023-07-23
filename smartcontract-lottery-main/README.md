@@ -220,8 +220,4 @@ To get started with Brownie:
 - ["Getting Started with Brownie"](https://medium.com/@iamdefinitelyahuman/getting-started-with-brownie-part-1-9b2181f4cb99) is a good tutorial to help you familiarize yourself with Brownie.
 - For more in-depth information, read the [Brownie documentation](https://eth-brownie.readthedocs.io/en/stable/).
 
-Any questions? Join our [Discord](https://discord.gg/2YHSAey)
-
-## License
-
-This project is licensed under the [MIT license](LICENSE).
+Any questions?
